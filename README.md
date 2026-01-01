@@ -20,6 +20,7 @@ A full-stack QR-based restaurant ordering web application where customers can pl
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ebf346c9-22c8-4556-838e-53ed4815724e" alt="customer menu" width="500" />
+  
   <img src="https://github.com/user-attachments/assets/e222cc34-3b48-4b07-8fed-4033c6be7833" alt="customer cart" width="500" />
 </p>
 
